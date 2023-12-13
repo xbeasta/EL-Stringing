@@ -1,0 +1,23 @@
+*{margin: 0; padding: 0;}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fcfcfc;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    padding: 0px;
+}
+
+.stringing_actions {
+    width: 1000px;
+    padding: 15px 0px;
+    overflow: auto;
+}
+
+.title_properties {
+    font-size: 30px;
+    float: left;
+}
