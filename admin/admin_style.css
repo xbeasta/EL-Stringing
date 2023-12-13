@@ -1,0 +1,19 @@
+*{margin: 0; padding: 0;}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fcfcfc;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    padding: 0px;
+}
+
+.admin_title_container {
+    width: 1000px;
+    margin: auto;
+    padding: 20px 0px;
+    text-align: center;
+}
