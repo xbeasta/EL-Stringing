@@ -18,3 +18,10 @@ body {
     padding: 20px 0px;
     text-align: center
 }
+
+.admin_login_container {
+    width: 1000px;
+    margin: auto;
+    padding: 20px 0px;
+    text-align: center
+}
